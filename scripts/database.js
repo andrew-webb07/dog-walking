@@ -100,6 +100,7 @@ const database = {
     }]
 }
 
+
 export const getWalkers = () => {
     return [...database.walkers]
 }
